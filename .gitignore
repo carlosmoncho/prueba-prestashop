@@ -1,0 +1,7 @@
+/config.xml
+/logs/
+/cache/
+/sass-cache/
+/.idea/
+/.vscode/
+/node_modules/
